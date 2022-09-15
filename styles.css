@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+/* font-family: 'IBM Plex Mono', monospace;
+font-family: 'Kumbh Sans', sans-serif; */
+
+body {
+    background-image: url(./assets/img/bgi.PNG);
+    background-position: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+
+.intro {
+    background-color: #fff;
+    border: 3px solid black;
+    min-width: 1000px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro__wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.intro__name {
+    font-family: 'IBM Plex Mono';
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.intro__post {
+    font-family: 'Kumbh Sans';
+}
+
+.intro__img {
+    max-width: 120px;
+}
+
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: rgb(230, 192, 25);
+    border: 3px solid black;
+    padding: 20px;
+}
