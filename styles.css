@@ -5,9 +5,16 @@
 /* font-family: 'IBM Plex Mono', monospace;
 font-family: 'Kumbh Sans', sans-serif; */
 
+/* body { */
+    /* background-image: url(./assets/img/bgi.PNG);
+    background-position: cover; */
+    
+    
 body {
-    background-image: url(./assets/img/bgi.PNG);
-    background-position: cover;
+    background: linear-gradient( rgb(187, 187, 187), rgb(55, 85, 149) 1px), linear-gradient( 90deg, rgb(187, 187, 187), transparent 1px);
+    background-size: 30px 30px;
+    background-position: center center;
+ 
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -40,7 +47,7 @@ body {
 }
 
 .intro__img {
-    max-width: 120px;
+    max-width: 240px;
 }
 
 
