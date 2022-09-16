@@ -6,11 +6,11 @@ Frontend-developer
 
 ### 2. Контакты ###
 Phone: 37529575372* TG, Viber
-Email: ol**********ich@mail.ru
+Email: olga.volotovich@mail.ru
 
 ### 3. Навыки ###
 слепая печать
-html, css, js, bootstrap, 7+1, scss, git, bem, npm, gulp, flex
+html, css, js, bootstrap, 7+1, scss, git, bem, npm, gulp, flex, Figma / Photoshop
 ### 4. Образование ###
 2014-2019 - bstu, ingeneer-technologist
 0 to 1, freelancer for life, larionov, petrichenko
